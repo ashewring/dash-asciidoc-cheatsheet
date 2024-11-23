@@ -1,3 +1,7 @@
+The original repo was mentioned on the following blog post:
+
+https://blog.jakubholy.net/2021/awesome-babashka-dash/
+
 AsciiDoctor cheat sheet creation for Dash
 =========================================
 
